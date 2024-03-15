@@ -57,7 +57,7 @@ public class NotesAdapter extends RecyclerView.Adapter<NotesAdapter.NotesViewHol
     }
 
     @Override
-    public int getItemCount() {                 // метод возвращает количество объектов, которые находятся в коллекции
+    public int getItemCount() {                
         return notes.size();
     }
 
