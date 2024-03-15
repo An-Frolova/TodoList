@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="description_button_add_note">button with plus</string>
+    <string name="button_save_note">save</string>
+    <string name="enter_note_hint">Enter note</string>
+    <string name="radio_button_low_priority">Low</string>
+    <string name="radio_button_medium_priority">Medium</string>
+    <string name="radio_button_high_priority">High</string>
+    <string name="error_field_empty">The field is empty!</string>
+    <string name="error_no_database_connection">No connection to the database</string>
+</resources>
